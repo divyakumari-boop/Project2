@@ -32,3 +32,24 @@ We are having a data set of used cars . We need some insights from the data set 
 * Region where the models ‘f-150’ or ‘compass’ , ‘Tacoma’ were available in black color. 
 * Data of manufacturer ,model , transmission where price is greater than 50000.
 * Model of the car which was purchased mostly.
+* Region which is having the highest number of cars.
+* In a particular year which color cars are the most sold.
+* Count of cars posted in different years.
+* count of cars according to their conditions for a particular manufacturer.
+* We need our data to be partitioned on the basis of state.
+* We need our data to be bucketed into 50 buckets based on id.
+* Write our  data into a parquet file and using that give the count of cars year-wise.
+* Write our  data into a json file.
+* We are having some IPL data in hive . Get that data to here and give that to us in a csv file.
+* We need our data to be partitioned on the basis of posting month.
+
+# HASHTAGS FOR TWITTER DATA ANALYSIS
+* #RohitSharma
+* #Teachersday
+* #SiddharthShukla
+
+# Insights for hashtags data : 
+* Get the count of locations from where the tweets came on #rohithsharma.
+* Get the name of the user with high number of followers who gave #siddharthshukla.
+* Get the count of locations from where the tweets came on #teachersday.
+* To get the trending the topics of India in tweeter.
